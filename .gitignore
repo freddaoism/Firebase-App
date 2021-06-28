@@ -10,7 +10,7 @@
 
 # production
 /build
-/service
+/src/service
 
 # misc
 .DS_Store
